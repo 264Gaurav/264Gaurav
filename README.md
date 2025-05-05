@@ -1,6 +1,7 @@
-
-
-
+<!-- ===== Developer Animation ===== -->
+<p align="center">
+  <img src="https://iconscout.com/lottie-animation/hacker-5817421_4847665" alt="Developer Animation" width="100%" />
+</p>
 
 <!-- ===== Header & Animated Typing ===== -->
 <h1 align="center">👋 Hi, I’m Gaurav Singh</h1>
