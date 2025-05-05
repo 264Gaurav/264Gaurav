@@ -13,7 +13,7 @@
 
 <!-- ===== Short Bio ===== -->
 <p align="center">
-  I'm a Research Engineer specialized in iOS development, full‑stack web apps, AI integrations, real‑time & IoT solutions.
+  I'm a Research Engineer , iOS developer, full‑stack web apps, AI integrations.
 </p>
 
 <p align="center">
