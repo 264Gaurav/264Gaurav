@@ -60,7 +60,7 @@ I'm open to collaborating on open-source projects and innovative ideas. Feel fre
 
 <p align="center">
   <!-- GeeksforGeeks -->
-  [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/gauravsingh_45)](https://www.geeksforgeeks.org/user/gauravsingh_45/)
+  [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/gauravsingh_45?theme=dark)]
   
   <!-- LeetCode -->
   [![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/gaurav264?theme=dark)](https://leetcode.com/gaurav264/)
