@@ -1,13 +1,3 @@
-- 👋 Hi, I’m GAURAV SINGH
-- 👀 I’m interested in ...web designing
-- 🌱 I’m currently learning ... Electronics Engg.
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... gauravsingh264209@gmail.com
-
-<!---
-264Gaurav/264Gaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <!-- ===== Hacker‑style MATRIX Background ===== -->
@@ -16,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!-- ===== Header & Animated Typing ===== -->
-<h1 align="center">👋 Hi, I’m [Your Name]</h1>
+<h1 align="center">👋 Hi, I’m Gaurav Singh</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Research+Engineer;iOS+Developer;Full-Stack+Web+Architect;AI+Innovator;IoT+Enthusiast" alt="Typing Animation" />
 </p>
@@ -25,6 +15,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   I'm a Research Engineer specialized in iOS development, full‑stack web apps, AI integrations, real‑time & IoT solutions.
 </p>
+
+<p align="center">
+  Connect me - gauravsingh264209@gmail.com
+</p>
+
 
 ---
 
