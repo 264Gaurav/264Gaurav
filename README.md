@@ -1,6 +1,6 @@
 <!-- ===== Developer Animation ===== -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif" alt="Developer Animation" height="50%" width="100%" />
+  <div class="tenor-gif-embed" data-postid="17405107" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hacker-reality-colored-keyboard-hacking-typing-gif-17405107">Hacker Reality Colored Keyboard GIF</a>from <a href="https://tenor.com/search/hacker+reality-gifs">Hacker Reality GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <!-- ===== Header & Animated Typing ===== -->
