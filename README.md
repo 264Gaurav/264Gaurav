@@ -61,14 +61,14 @@ I'm open to collaborating on open-source projects and innovative ideas. Feel fre
 <p align="center">
   <!-- GeeksforGeeks -->
 
-   [![GFG Badge](https://gfgstatscard.vercel.app/gauravsingh_45?theme=dark)]
+   [![GFG Badge](https://gfgstatscard.vercel.app/gauravsingh_45?theme=dark)](https://www.geeksforgeeks.org/user/gauravsingh_45/)
 
   <!-- LeetCode -->
   [![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/gaurav264?theme=dark)](https://leetcode.com/gaurav264/)
   
   <!-- HackerRank -->
-  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gauravsingh_45)
-</p>
+   [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gauravsingh_45)
+ </p>
 
 
 ---
