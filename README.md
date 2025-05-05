@@ -58,7 +58,7 @@ I'm open to collaborating on open-source projects and innovative ideas. Feel fre
 
 ## 🏅 Competitive Programming Stats
 
-<p align="center">
+<p>
   <!-- GeeksforGeeks -->
 
    [![GFG Badge](https://gfgstatscard.vercel.app/gauravsingh_45?theme=dark)](https://www.geeksforgeeks.org/user/gauravsingh_45/)
