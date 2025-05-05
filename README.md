@@ -1,6 +1,6 @@
 <!-- ===== Developer Animation ===== -->
 <p align="center">
-  <img src="https://iconscout.com/lottie-animation/hacker-5817421_4847665" alt="Developer Animation" width="100%" />
+  <img src="https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif" alt="Developer Animation" width="100%" />
 </p>
 
 <!-- ===== Header & Animated Typing ===== -->
