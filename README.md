@@ -16,9 +16,9 @@
   I'm a Research Engineer , iOS developer, full‑stack web apps, AI integrations.
 </p>
 
-<p align="center">
-  Connect me - gauravsingh264209@gmail.com
-</p>
+## 🤝 Let's Collaborate!
+I'm open to collaborating on open-source projects and innovative ideas. Feel free to [reach out](mailto:gauravsingh264209@gmail.com).
+
 
 
 ---
