@@ -54,6 +54,23 @@ I'm open to collaborating on open-source projects and innovative ideas. Feel fre
 
 ---
 
+
+
+## 🏅 Competitive Programming Stats
+
+<p align="center">
+  <!-- GeeksforGeeks -->
+  [![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/gauravsingh_45)](https://www.geeksforgeeks.org/user/gauravsingh_45/) :contentReference[oaicite:0]{index=0}
+  
+  <!-- LeetCode -->
+  [![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/gaurav264?theme=dark)](https://leetcode.com/gaurav264/) :contentReference[oaicite:1]{index=1}
+  
+  <!-- HackerRank -->
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gauravsingh_45) :contentReference[oaicite:2]{index=2}
+</p>
+
+---
+
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
