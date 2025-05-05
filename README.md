@@ -8,7 +8,7 @@
 <!-- ===== Header & Animated Typing ===== -->
 <h1 align="center">👋 Hi, I’m Gaurav Singh</h1>
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Research+Engineer;iOS+Developer;Full-Stack+Web+Developer;AI+,+Research+Innovator;IoT+Enthusiast" alt="Typing Animation" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=400&lines=Research+Engineer;iOS+Developer;Full-Stack+Web+Developer;AI+,+Research+Innovator;IoT+Enthusiast" alt="Typing Animation" />
 </p>
 
 <!-- ===== Short Bio ===== -->
