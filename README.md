@@ -1,9 +1,6 @@
 
 
-<!-- ===== Hacker‑style MATRIX Background ===== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Matrix background" width="100%" />
-</p>
+
 
 <!-- ===== Header & Animated Typing ===== -->
 <h1 align="center">👋 Hi, I’m Gaurav Singh</h1>
