@@ -16,9 +16,6 @@
   I'm a Research Engineer , iOS developer, full‑stack web apps, AI integrations.
 </p>
 
-## 🤝 Let's Collaborate!
-I'm open to collaborating on open-source projects and innovative ideas. Feel free to [reach out](mailto:gauravsingh264209@gmail.com).
-
 
 
 ---
@@ -79,6 +76,11 @@ I'm open to collaborating on open-source projects and innovative ideas. Feel fre
   <img src="https://github-readme-stats.vercel.app/api?username=264Gaurav&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=264Gaurav&theme=radical&cache_seconds=1800" alt="GitHub Streak" width="48%" />
 </p>
+
+---
+
+## 🤝 Let's Collaborate!
+I'm open to collaborating on open-source projects and innovative ideas. Feel free to [reach out](mailto:gauravsingh264209@gmail.com).
 
 ---
 
