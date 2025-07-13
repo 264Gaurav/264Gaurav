@@ -13,7 +13,7 @@
 
 <!-- ===== Short Bio ===== -->
 <p align="center">
-  I'm a Research Engineer , iOS developer, full‑stack web apps, AI integrations.
+  I'm a Research Engineer,iOS developer,full‑stack developer,AI integrations.
 </p>
 
 
